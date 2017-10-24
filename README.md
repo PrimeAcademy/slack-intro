@@ -1,23 +1,21 @@
 # Slack
 
 ## Set up
-- First and Last name for usernames  
-- profile photo
--Desktop and Phone apps
-Slack app:
-https://itunes.apple.com/app/slack/id803453959
-
-
+- Username: First and Last name makes it easy. 
+- Profile photo: an image of your face is best!
+-[Desktop Slack app](https://itunes.apple.com/app/slack/id803453959)
 
 ## Tale of Two Slacks
 ### On Campus Slack:
 https://primeacademycampus.slack.com
+This is for all current students and staff at Prime. 
+
 ### All students and graduates:
 - https://primeacademy.slack.com
-- Great for networking with Alumni
+This is for all Prime alumni and staff.
+- Great for connecting with Alumni
 - Prime has a positive and helpful alumni community. Don't be afraid to reach out!
 - \#diveristy-inclusion
-
 
 ## Using Slack
 
@@ -35,15 +33,12 @@ have Slack open when working on Prime stuff.
 
 ![alt text](start-thread.png "Logo Title Text 1")
 ### Pinned items
-![alt text](view-pinned.png "Logo Title Text 1")
-![alt text](pinned-items.png "Logo Title Text 1")
+Pinned items are posts in a channel that can be useful for everyone to reference. You can view pinned items by clicking on the thumbtack icon at the top of a channel:
 
+![hover over thumbtack icon](view-pinned.png "How to view pinned items")
 
-Process for Weekly discussion question
-
-Threading
-
-How to ask questions
+The pinned items for that channel will then open up of the side to scroll through:
+![showing pinned items on right side of screen](pinned-items.png "Pinned items view")
 
 ### Code Blocks
 
