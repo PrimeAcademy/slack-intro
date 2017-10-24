@@ -10,7 +10,7 @@
 https://primeacademycampus.slack.com
 This is for all current students and staff at Prime. 
 
-### All students and graduates:
+### All Prime Slack:
 - https://primeacademy.slack.com
 This is for all Prime alumni and staff.
 - Great for connecting with Alumni
@@ -26,11 +26,10 @@ You may also have personal messages from Prime staff on Slack.
 Asking for help should be done in the cohort's channel, not directly to instructors or peers. Others will have similar questions.
 Instructors will regularly check the Slack channel and answer questions there as well.
 
-
 have Slack open when working on Prime stuff.
 
 ### Threads
-
+Threads are a great way of organizing and containing conversations, or discussing questions. To start a thread, hover over the post that you want to respond to and then the "Start a thread" text bubble symbol will show up. Click on that and you can start a thread!
 ![alt text](start-thread.png "Logo Title Text 1")
 ### Pinned items
 Pinned items are posts in a channel that can be useful for everyone to reference. You can view pinned items by clicking on the thumbtack icon at the top of a channel:
