@@ -35,8 +35,8 @@ have Slack open when working on Prime stuff.
 
 ![alt text](start-thread.png "Logo Title Text 1")
 ### Pinned items
-
-
+![alt text](view-pinned.png "Logo Title Text 1")
+![alt text](pinned-items.png "Logo Title Text 1")
 
 
 Process for Weekly discussion question
