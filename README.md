@@ -32,6 +32,8 @@ Instructors will regularly check the Slack channel and answer questions there as
 have Slack open when working on Prime stuff.
 
 ### Threads
+
+![alt text](start-thread.png "Logo Title Text 1")
 ### Pinned items
 
 
