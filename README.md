@@ -20,15 +20,12 @@ https://primeacademycampus.slack.com
 
 ## Using Slack
 
-Check your cohort channel daily.
-There will be updates, announcements, resources, questions...
-You may also occasionally receive direct messages from Prime staff on Slack. 
-
-Asking for help should be done in the cohort's channel, not directly to instructors or peers. Others will have similar questions.
-
-Instructors will regularly check the Slack channel and answer questions.
-
-Have Slack open when working on Prime stuff. This makes is easier to keep up to date, post questions as they come up or respond to others' questions.
+- Check your cohort channel daily!
+  - There will be updates, announcements, resources, questions...
+- You may also occasionally receive direct messages from Prime staff on Slack. 
+- Asking for help should be done in the cohort's channel, not directly to instructors or peers. Others will have similar questions!
+- Instructors will regularly check the Slack channel and answer questions.
+- Have Slack open when working on Prime stuff. This makes is easier to keep up to date, post questions as they come up or respond to others' questions.
 
 ### Threads
 Threads are a great way of organizing and containing conversations, or discussing questions. To start a thread, hover over the post that you want to respond to and then the "Start a thread" text bubble symbol will show up. Click on that and you can start a thread!
