@@ -60,8 +60,8 @@ Then that post can be pinned to make it easy to find.
 Everyone else will reponse to the Weekly Discussion in a thread under the first response. 
 
 ### Asking and Answering questions in Slack
-When asking a question, try to be descriptive. This can be difficult since the language is all new to you.
-You can also post a piece of your code or a link to your code if needed.
+When asking a question or answering code questions, try to be descriptive. This can be difficult since the language is new to you.
+You can also post a piece of your code or a link to your code if needed!
 
 ## FAQ
 
